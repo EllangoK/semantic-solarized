@@ -1,0 +1,21 @@
+{
+    "name": "semantic-solarized",
+    "displayName": "Semantic Solarized",
+    "description": "Solarized Dark w/ better Semantic Support",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Semantic Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Semantic Solarized-color-theme.json"
+            }
+        ]
+    }
+}
